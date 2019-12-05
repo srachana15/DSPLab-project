@@ -1,5 +1,5 @@
 Downloaded from  https://github.com/Jakobovski/free-spoken-digit-dataset
-/n
+
 4 speakers
 10 digits
 50 recordings of each digit --> 2000 total recording
