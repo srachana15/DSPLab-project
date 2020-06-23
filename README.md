@@ -1,6 +1,12 @@
 # DSPLab-project
 
-I have started writing the code referring to the following documents
+## Speech Recognition using CNN
+
+Team members: 
+Rachana Swamy (rms816)
+Shubham Panchadhar (sp5047),
+Vidyarini Kanagasabapathi (vk1198)
+
 
 Steps for Feature Extraction:
   1.  Convert audio to frequency domain FFT
